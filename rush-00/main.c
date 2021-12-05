@@ -3,14 +3,15 @@
 /*                                                        :::      ::::::::   */
 /*   main.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: marvin <marvin@student.42.fr>              +#+  +:+       +#+        */
+/*   By: csiqueir <carlos.felipe@hotmail.com.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/12/04 17:45:53 by marvin            #+#    #+#             */
-/*   Updated: 2021/12/04 17:45:53 by marvin           ###   ########.fr       */
+/*   Created: 2021/12/04 21:46:32 by csiqueir          #+#    #+#             */
+/*   Updated: 2021/12/04 21:54:16 by csiqueir         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "rush03.c"
+
+void rush(int x, int y);
 
 int main()
 {

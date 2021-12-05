@@ -3,15 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   rush03.c                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: marvin <marvin@student.42.fr>              +#+  +:+       +#+        */
+/*   By: csiqueir <carlos.felipe@hotmail.com.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/12/04 17:45:56 by marvin            #+#    #+#             */
-/*   Updated: 2021/12/04 17:45:56 by marvin           ###   ########.fr       */
+/*   Updated: 2021/12/04 21:47:57 by csiqueir         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_putchar.c"
-#include <stdio.h>
+void ft_putchar(char c);
 
 void rush(int x, int y)
 {
